@@ -1,0 +1,11 @@
+{
+  "name": "libp2p-demo",
+  "version": "1.0.0",
+  "description": "learning libp2p",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "libp2p": "^0.37.3",
+    "typescript": "^4.7.4"
+  }
+}
